@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(178,30,215,0.699);
+}
+.card{
+    margin-top: 10%;
+    margin-left: 40%;
+    width: 330px;
+    height: 370px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.username input{
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    font-size: 22px;
+    border-bottom: 2px solid gray;
+
+}
+.password input{
+    margin-top: 40px;
+    border: none;
+    outline: none;
+    font-size: 22px;
+    border-bottom: 2px solid gray;
+}
+.forgot{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.btn .login-btn{
+    width: 240px;
+    height: 40px;
+    background-color:rgba(178, 30, 215, 0.699) ;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+
+.btn:hover{
+    background-color: white;
+    font-size: 50px;
+}
